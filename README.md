@@ -7,6 +7,6 @@ Technologies I will be using here as per regarding software are:
 1. Google Assistant AI packages
 2. Amazon Alexa   AI packages
 3. Shell scripting and
-4. python 
+4. Python 
 
 So here You can contribute and ask me any question related to this.
